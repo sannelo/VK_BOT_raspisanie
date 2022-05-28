@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "annelo-uschqd",
+  "private_key_id": "a99efe061391479baade6fda3f7aea17664c7724",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDZm5NxtFQIKH/n\n6Twi8EwWGFZS1H/BAKXZZTHrhRlXEWnWNY5kupm2bCoERthYZkiZhYRuDBaSRgW2\nYzJ9NqEJu91KUKBSgkuYt/W1L8pE1PhOAqvwlL8ZoqFvrFvZQRuB7+kgn6iqEd77\n2eCMcldltTJ8RWRD2rKJpw4YF42zsn1z4n6N5iTdhsd2/YRLHxgu2FMFC6MbzOto\n1NDM79g3IjBSB4ocHoAgxI6+0ENxLQO+U9iaqBYny93gdi4yRxlipIMoRBMEyQrD\nsYoWP4kPogBNoB2ge7M7J/9aOX9O3/gEn2opwdSRv9dTk7y+RTl73wlvRux3OsQg\ny3E5+oRlAgMBAAECggEAGYqLbpXkJBX+101Wp+ItCA3gufWjrhdhoAfi6Vo0vHW4\nhrJADZ4iUxlUgC6Bj7Snsk9L2S/ViWMrIfp4L161XaNdiK64dp7A+UKkVhkvJE+b\n+moRXNpUqNFgIe+o0zHzZNewNQpQXW/eDJEI7GsyS2eObqwlZdp6SLJhMt423V+v\nKXo/WJiTE7Kej7fj7TP336Fu57YvVjzR5FF6XctS3FA0+cRKmC9nde6ay2OFf/gS\np4Ji4L5I1Q+zVjuQpY+VIuO/StWuJiXe4vfye5aMFBkKCZs8QZHb5wGliTW4stoK\nfo8BDSr9DAQJfVD1fEKXzhUgSNUL1173xcooKCBoGQKBgQD2Sssvk1LGjeKBrrHR\nTZS+P+lges+kN2YX34l3BwFoyzCv8KnH0A8zcYdnXMnSuucZDXzzFZuoktTQKIRk\nEDjy6WhO3FpDRWpLwbv7WoBYAqXjiG2uXq4s27toMJny9BUOoIKovrbC3c4DbqA3\nBfh/PnGsKJial0R2tqyalJFQ3QKBgQDiL1epaA2+EOKfcd5V4KG4RW9ocnPfIPds\nuH+WEWNV1TkizBIK7pm9k5sUbhZJDxQ7ysFNKq/wkdxO14W7jVW4og6pm1AGJlrt\nEqegCbaRBI+dQI7M2PucU1eBiyR23ItZ/dE0qXNhAnVRW4FrVolP4PXXv7GM8RU0\n50POaH1FKQKBgQDg+u2kZfVlPtK8F7KDOVU4fPVYlpb6sUhnYmEWA6Y77fBpp3PP\n/LUGDxzbRJ1wDB9yeSm8e+6XDJmuFHTrWw5KhwArmYoyjUROM4jeUIuQ2cpjkIpw\nkDiW7ZnB0TOwBVr+44y3TI9ybl70L6fW23Nl+MqpsuPDw45cyv3crv4XWQKBgQDT\nYetLJzOwrZcd7A0dtRFuZXX45v3jSavyr3qNhTKQxPTg0FcMYHDN+2Szcy7gmHcQ\naiy9MWe8LJT4GfOhlDTImKubVssy9CWF6ik+J9W3McwF6o+KYj7Dmh/tsVwiuXqC\nX/Nkg/iQcPuzTRFmfzlUrakUONJ2Jdjr2DZGcOCiAQKBgFJv+BFfdHvB6slCTM+w\n7ZG94QgtaFJFTu3UkWp4m4crpdvYFnBlP+xUf3e+PC9NJWXf9fpyl7C9YM7/I8oH\nZgz22ty5/r6WeHkLs00pFwybkZgEh8TwqQftDfFJvJv94KDMEMy9bKcyRT/kg8vL\nmQEYAkbrz7kpnwgErwwarNA9\n-----END PRIVATE KEY-----\n",
+  "client_email": "annelo-python@annelo-uschqd.iam.gserviceaccount.com",
+  "client_id": "101378954495533077879",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/annelo-python%40annelo-uschqd.iam.gserviceaccount.com"
+}

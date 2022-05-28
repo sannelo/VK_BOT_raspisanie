@@ -3,7 +3,9 @@ from vkbottle.bot import Bot, Message
 
 from main import *
 
-bot = Bot("1e0f79485bec796c92ef5953271337d3e17f0e4558f4e1bafd3d42c5dc976fae266c101271e29990ddd6a")
+from config import TOKEN
+
+bot = Bot(TOKEN)
 
 logging.basicConfig(level=logging.INFO)
 
